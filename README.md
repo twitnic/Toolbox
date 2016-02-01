@@ -1,4 +1,4 @@
-=== Toolbox ===
+# Toolbox #
 Contributors: sergej.mueller
 Tags: tools, functions, modules
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZAQUT9RLPW8QN
@@ -8,15 +8,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
-
 Werkzeugkoffer für die Modularisierung der functions.php. WordPress Snippets bequem und übersichtlich als Module verwalten.
 
+## Description ##
 
-
-== Description ==
-
-= Bausteinsystem =
+### Bausteinsystem ###
 Vergrößert sich der Funktionsumfang eines WordPress-Blogs, so steigt entweder die Anzahl der installierten Plugins oder die *functions.php* im Theme wächst durch einen stetigen Neuzugang an Code-Fragmenten.
 
 Und da kleinere Funktionsaufrufe kaum als Plugin-Lösungen zur Verfügung stehen, werden diese gern in die besagte Erweiterungsdatei eingefügt. Im Laufe der Zeit und Entwicklung wird die Datei *functions.php* schlicht und einfach unübersichtlich und überdimensioniert. Zudem kommt die Tatsache, dass WordPress die Datei sowohl im Blog-Frontend wie auch im Admin-Bereich einbindet und ausführt.
@@ -27,7 +23,7 @@ Ab diesem Moment übernimmt das Plugin die Steuerung der Code-Schnipsel: Der Adm
 
 Auf diese Weise müssen WordPress-Hooks und andere Funktionserweiterungen nicht länger als Plugins in Betrieb genommen werden, um überschaubar und übertragbar zu sein. Als Toolbox-Modul ist der Code zugänglich abgelegt und kann mühelos gepflegt werden.
 
-= Stärken =
+### Stärken ###
 * Ein- und abschaltbar
 * Zeitsparendes Management der Module
 * Ausstattung der Module mit Metadaten
@@ -37,31 +33,31 @@ Auf diese Weise müssen WordPress-Hooks und andere Funktionserweiterungen nicht 
 * Einfache Weitergabe der WordPress-Snippets
 * Modus für mehr Sicherheit beim Ausführen der Module
 
-= Systemanforderungen =
+### Systemanforderungen ###
 * PHP ab 5.3
 * WordPress ab 3.3
 
-= Dokumentation =
+### Dokumentation ###
 * [Toolbox: WordPress Snippets als Module](http://playground.ebiene.de/toolbox-wordpress-plugin/ "Toolbox: WordPress Snippets als Module")
 
-= Unterstützung =
+### Unterstützung ###
 * Per [Flattr](https://flattr.com/thing/818f7271bb99b074f3e0d749db181f17)
 * Per [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZAQUT9RLPW8QN)
 
-= Autor =
+### Autor ###
 * [Google+](https://plus.google.com/110569673423509816572 "Google+")
 * [Plugins](http://wpcoder.de "Plugins")
 * [Portfolio](http://ebiene.de "Portfolio")
 
 
 
-== Changelog ==
+## Changelog ##
 
-= 0.1 =
+### 0.1 ###
 * Toolbox geht online
 
 
 
-== Screenshots ==
+## Screenshots ##
 
 1. Toolbox Optionen
